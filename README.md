@@ -2,16 +2,16 @@ Please Buy me an Cofe:
 
 BTC ( Bitcoin-Network ):
 
-1Lob9pfuX4hHVb6dMGCXRYyPdeLKXBkUL2
+bc1qvt22a3evept6uqexu47ar6xsy9ljc3m84tg9au
 
-USDT (Ethereum-Network):
+Ethereum (Ethereum-Network):
 
-0x85a1928F10823f9371388a5DD559C0798E86F3D7
+0xB10f545BB3463e660C70D84807f3e5C499b58403
 
-USDT ( Solana-Network ):
+Solana ( Solana-Network ):
 
-5cUqgUWzVJisAs7LxXWgA4ambKrfXrJYsveRP8CvarcE
+9rkcsziP8hQ4ZsMSuStCUNtUJ7f2Tdd6hRkJ4R6TAZHR
 
-USDT ( Binance-Smart-Chain ):
+BNB Chain ( Binance-Smart-Chain ):
 
-0x85a1928F10823f9371388a5DD559C0798E86F3D7
+0xB10f545BB3463e660C70D84807f3e5C499b58403
