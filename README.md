@@ -15,3 +15,6 @@ Solana ( Solana-Network ):
 BNB Chain ( Binance-Smart-Chain ):
 
 0xB10f545BB3463e660C70D84807f3e5C499b58403
+
+or send me a E-Mail:
+chrisi.duzi@gmail.com
